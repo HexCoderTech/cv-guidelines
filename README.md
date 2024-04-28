@@ -1,5 +1,10 @@
 # CV Guide
 
+## Common mistakes
+
+* Do not add a photo to the CV if you are applying to an IT job.
+* There is no need to add references. **Provide when requested.
+
 ## Pros and Cons of Different CV Styles
 
 
